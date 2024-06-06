@@ -1,0 +1,14 @@
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.AssemblyInfoInputs.cache
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.AssemblyInfo.cs
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\bin\Debug\net8.0\Real$$.exe
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\bin\Debug\net8.0\Real$$.deps.json
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\bin\Debug\net8.0\Real$$.runtimeconfig.json
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\bin\Debug\net8.0\Real$$.dll
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\bin\Debug\net8.0\Real$$.pdb
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.dll
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\refint\Real$$.dll
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.pdb
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\Real$$.genruntimeconfig.cache
+C:\Users\Aluno.BPXS314\Documents\Recuperação\Recuperação\Real$$\Real$$\obj\Debug\net8.0\ref\Real$$.dll
